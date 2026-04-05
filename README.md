@@ -1,2 +1,1 @@
-# my-java-app
-Some description
+Readme content
